@@ -55,6 +55,6 @@ res.redirect("/");
 })
 
 
-app.listen(5000,()=>{
-    console.log("server listeninig on portno:5000");
+app.listen(5314,()=>{
+    console.log("server listeninig on portno:5314");
 })
